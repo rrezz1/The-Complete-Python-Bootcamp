@@ -1,4 +1,4 @@
-<img width="1257" height="820" alt="image" src="https://github.com/user-attachments/assets/d66cb3f9-cc9c-4d1f-9ac6-e313ca629d72" /># **Section 4**
+# **Section 4**
 
 ## **24)**
 
