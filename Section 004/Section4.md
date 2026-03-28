@@ -1,4 +1,4 @@
-<img width="1756" height="379" alt="image" src="https://github.com/user-attachments/assets/be31afca-6210-435a-af2a-4fbd5cd41eda" /># Section 4
+# **Section 4**
 
 ## **24)**
 
@@ -70,11 +70,15 @@
 >>dmth 0:3
 >>
 >> i mer 0,1,2
+>
 >[Start:]*
+>
 >>dmth 0:...
 >>
 >> i mer 0,deri fund array
+>
 >[Start:End:Step]
+>
 >>dmth 0:...
 >>
 >>i mer 0,deri fund array
