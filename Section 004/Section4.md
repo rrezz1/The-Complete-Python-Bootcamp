@@ -66,19 +66,21 @@
 
 ![im16](./Resources/16.png)
 
->[Start:End]
+shembulli me [0,1,2,3,4,5]
+>[Start:End] ([0:3])
+>
 >>dmth 0:3
 >>
 >> i mer 0,1,2
 >
->[Start:]*
+>[Start:]* ([0])
 >
 >>dmth 0:...
 >>
 >> i mer 0,deri fund array
 >
->[Start:End:Step]
+>[Start:End:Step] ([0:6:2])
 >
->>dmth 0:...
+>>dmth step se shtin
 >>
->>i mer 0,deri fund array
+>>i mer 0,1,3,4,5
