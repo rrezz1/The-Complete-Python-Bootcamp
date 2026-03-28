@@ -38,18 +38,22 @@
 
 ## **21)**
 
-### **type()** (build-in function)
+### **type()**
 ![img6](./Resources/6.png)
 
-### **len()** (build-in function)
+### **len()** 
 ![img7](./Resources/7.png)
 
-### **upper()** (build-in function)
+### **upper()**
 ![img8](./Resources/8.png)
 
 
-### **bit_length()** (build-in function)
+### **bit_length()**
 ![img9](./Resources/9.png)
 
-### **data typea**
+### **data types**
 ![img10](./Resources/10.png)
+
+
+### **Shenime**
+![img11](./Resources/11.png)
