@@ -8,3 +8,8 @@
 > [Python Course Mindmap](https://www.mindmeister.com/app/map/3916039125?t=ou8ZR0zayk)
 >
 > [Notion Python Course Planner](https://www.notion.com/templates/python-roadmap)
+
+## **12)**
+
+### **Escape Sequences**
+[im1](./Resources/1.png)
