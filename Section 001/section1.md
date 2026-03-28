@@ -12,4 +12,4 @@
 ## **12)**
 
 ### **Escape Sequences**
-[im1](./Resources/1.png)
+![im1](./Resources/1.png)
