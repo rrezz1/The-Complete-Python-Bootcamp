@@ -1,4 +1,4 @@
-# **Section 4**
+<img width="1257" height="820" alt="image" src="https://github.com/user-attachments/assets/d66cb3f9-cc9c-4d1f-9ac6-e313ca629d72" /># **Section 4**
 
 ## **24)**
 
@@ -58,29 +58,75 @@
 ![im14](./Resources/14.png)
 
 
-## **31)** (Repeating)
+## **32)** (Repeating)
 
 ![im15](./Resources/15.png)
 
-## **31)** (Indenxing and Slicing)
+## **33)** (Indenxing and Slicing)
 
 ![im16](./Resources/16.png)
 
 shembulli me [0,1,2,3,4,5]
 >[Start:End] ([0:3])
 >
->>dmth 0:3
 >>
 >> i mer 0,1,2
 >
 >[Start:]* ([0])
 >
->>dmth 0:...
->>
 >> i mer 0,deri fund array
 >
->[Start:End:Step] ([0:6:2])
+>[:End]* ([5])
 >
->>dmth step se shtin
+>>dmth 0,1,2,3,4
 >>
->>i mer 0,1,3,4,5
+>> i mer prej fillimi dej te 5
+>
+>[Start:End:Step] ([0:5:2])
+>
+>>dmth step qdo dytin step
+>>
+>>i mer 0,2,4
+
+## **34)** (Removing Spaces)
+
+### **strip ,lstrip, rstrip**
+>text.strip() remove spaces from both ends
+>
+>text.lstrip() remove spaces from left
+>
+>text.rstrip() remove spaces from right
+
+### **strip specifix characters**
+>text.strip(character)
+
+## **35)** (Low conversion)
+
+###**text.lower()**
+
+###**text.upper()**
+
+
+## **36)** (Searching)
+
+## **text.startswith("123")**
+>kthen true/false
+
+
+## **text.endswith("123")**
+>kthen true/false
+
+
+## **text.find("123")**
+>kthen poziten ku e ka gjet
+
+![im18@](./Resources/18.png)
+
+## **37)** (Validing string)
+
+## **isslpha()**
+![im19](./Resources/19.png)
+
+
+## **isnumeric()**
+![im20](./Resources/20.png)
