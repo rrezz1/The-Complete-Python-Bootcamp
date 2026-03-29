@@ -102,5 +102,3 @@
 > if valid:
 >     print("Email is valid.")
 > ```
->
->![img](./Resources/5.png)
