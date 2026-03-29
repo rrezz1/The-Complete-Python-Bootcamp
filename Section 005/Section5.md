@@ -87,6 +87,9 @@
 >
 >![img](./Resources/13.png)
 
+
+## **45)** (Random)
+
 ### **random**
 >duhet me import gjithkon
 >
@@ -95,7 +98,27 @@
 
 
 ### **.random()**
->e gjeneron ni nr random 0-1
+>e gjeneron ni nr FLOAT random 0-1
 >
 >![img](./Resources/14.png)
 
+### **.randint(start, end)**
+>e gjeneron ni nr INT random prej vleres start to end
+>
+>![img](./Resources/15.png)
+
+
+
+## **46)** (Validating Numvers)
+
+### **.is_integer()**
+>e bon return true false a o int
+>
+>nese o 7.0 e kthen int true
+>
+>![img](./Resources/19.png)
+
+### **.isinstance(value, type)**
+>e bon return true false a type qe ja kallzon
+>
+>![img](./Resources/20.png)
