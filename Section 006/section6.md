@@ -72,21 +72,22 @@
 ## **57)** (Membership Operators)
 
 ### **in**
->![img]./Resources/15.png)
+
+>![img](./Resources/15.png)
 
 ## **58)** (Identify Operators)
 
 ### **is**
 >i kqyr id a i kan njejt
 >
->![img]./Resources/16.png)
+>![img](./Resources/16.png)
 >
 >nese skena objekte konplekse i bon ni id qe mos me zan ven
 >
->![img]./Resources/17.png)
+>![img](./Resources/17.png)
 >
 >qysh nuk kijon new id
 >
->![img]./Resources/18.png)
+>![img](./Resources/18.png)
 >
->![img]./Resources/19.png)
+>![img](./Resources/19.png)
