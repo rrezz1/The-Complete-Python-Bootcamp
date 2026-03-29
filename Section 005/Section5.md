@@ -33,8 +33,10 @@
 >
 >![img](./Resources/6.png)
 
-### **a osht tek a qift**
->%
+### **%**
+>kthen mbetjen
+>
+>a osht tek a qift
 >
 >![img](./Resources/7.png)
 
