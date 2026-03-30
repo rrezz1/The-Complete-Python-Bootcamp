@@ -122,6 +122,8 @@
 
 ## **114)** (Sorting list)
 
+![img](./Resources/17.png)
+
 ### **sort()**
 >i bon sort prej mas poshti te mas nalti
 
@@ -145,9 +147,9 @@
 >pa ndru origjinalin
 
 
-## **114)** (Reversig List)
+## **115)** (Reversig List)
 
-![img](./Resources/17.png)
+
 
 ### **reverse()**
 >e rrutollon listen
