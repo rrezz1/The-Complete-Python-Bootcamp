@@ -41,15 +41,18 @@
 >i mer setet edhe i bon 1
 >
 >nese ka duplicate, veq 1 e merr
+
 **a | b**
 >shortcut per union()
 
 ### **a.intersection(b)**
 >i mer perbashkat e seteve
+
 **a & b**
 >shortcut per intersection()
 
 ### **a.diference(b)**
 >i mer veq qa i ka diferent a e si ka seti b
+
 **a - b**
 >shortcut per diference()
