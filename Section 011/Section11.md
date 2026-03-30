@@ -46,4 +46,62 @@ duhet me i import -> import copy
 >![img](./Resources/10.png)
 
 ## **123)** (Iterator)
+
+### **enumerate()**
 >![img](./Resources/11.png)
+>
+>![img](./Resources/12.png)
+>
+>![img](./Resources/13.png)
+>
+>nese njo o empty, e print pos edhe e ki ma leht me gjet
+
+
+### **reversed()**
+>![img](./Resources/14.png)
+
+
+### **zip()**
+>![img](./Resources/15.png)
+>
+>![img](./Resources/16.png)
+
+
+### **map()**
+>![img](./Resources/17.png)
+
+## **124)** (Filter Function)
+>![img](./Resources/18.png)
+>
+>str.isalpha kthen veq string
+
+
+## **125)** (Lambda Function)
+
+### **labda**
+>![img](./Resources/19.png)
+>
+>![img](./Resources/20.png)
+
+### **lambda + map()**
+>![img](./Resources/21.png)
+
+
+### **lambda + filter()**
+>![img](./Resources/22.png)
+>
+>![img](./Resources/23.png)
+
+![img](./Resources/24.png)
+
+
+## **128)** (List Comprehensoins)
+>![img](./Resources/25.png)
+>
+>![img](./Resources/26.png)
+>
+>![img](./Resources/27.png)
+
+
+## **129)** (List Methods)
+>![img](./Resources/28.png)
