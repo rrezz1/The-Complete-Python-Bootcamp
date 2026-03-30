@@ -60,5 +60,3 @@
 
 ## **88)** (Nested Loop)
 >![img](./Resources/8.png)
-
-## **89)** (Nested Loop Use Case)
