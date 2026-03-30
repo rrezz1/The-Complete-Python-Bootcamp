@@ -45,4 +45,5 @@ duhet me i import -> import copy
 >
 >![img](./Resources/10.png)
 
-## **121)** (Interables & Interators)
+## **123)** (Iterator)
+>![img](./Resources/11.png)
